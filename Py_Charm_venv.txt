@@ -1,0 +1,21 @@
+cd /Users/apoorv/PycharmProjects/
+ls
+cd tf_test/
+ls
+cd venv/
+ls
+source bin/activate
+python		->Python3.8
+pip3 install tensorflow==2.3.0
+pip3 install tensorflow-datasets==3.2.1
+
+#For PyCharm use venv and Base-Interpreter="/Library/Frameworks/Python.framework/Versions/3.8/bin/python3" Keep two boxes UNCHECKED.
+
+Packages for exam:
+● tensorflow
+● tensorflow-datasets
+● numpy
+● Pillow
+● urllib3
+
+Pillow==7.2.0
